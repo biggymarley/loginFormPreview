@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/loginFormPreview/static/css/main.afd7172b.chunk.css",
-    "main.js": "/loginFormPreview/static/js/main.282eba12.chunk.js",
-    "main.js.map": "/loginFormPreview/static/js/main.282eba12.chunk.js.map",
+    "main.js": "/loginFormPreview/static/js/main.6199ea66.chunk.js",
+    "main.js.map": "/loginFormPreview/static/js/main.6199ea66.chunk.js.map",
     "runtime-main.js": "/loginFormPreview/static/js/runtime-main.3b6dbada.js",
     "runtime-main.js.map": "/loginFormPreview/static/js/runtime-main.3b6dbada.js.map",
     "static/js/2.d593a92f.chunk.js": "/loginFormPreview/static/js/2.d593a92f.chunk.js",
@@ -13,14 +13,14 @@
     "static/css/main.afd7172b.chunk.css.map": "/loginFormPreview/static/css/main.afd7172b.chunk.css.map",
     "static/js/2.d593a92f.chunk.js.LICENSE.txt": "/loginFormPreview/static/js/2.d593a92f.chunk.js.LICENSE.txt",
     "static/media/Google.f9389777.svg": "/loginFormPreview/static/media/Google.f9389777.svg",
-    "static/media/facebook.584e4d67.svg": "/loginFormPreview/static/media/facebook.584e4d67.svg",
+    "static/media/facebook.99a9fcb0.svg": "/loginFormPreview/static/media/facebook.99a9fcb0.svg",
     "static/media/signin.437dc011.png": "/loginFormPreview/static/media/signin.437dc011.png",
-    "static/media/twitter.2e236458.svg": "/loginFormPreview/static/media/twitter.2e236458.svg"
+    "static/media/twitter.c336df26.svg": "/loginFormPreview/static/media/twitter.c336df26.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3b6dbada.js",
     "static/js/2.d593a92f.chunk.js",
     "static/css/main.afd7172b.chunk.css",
-    "static/js/main.282eba12.chunk.js"
+    "static/js/main.6199ea66.chunk.js"
   ]
 }
